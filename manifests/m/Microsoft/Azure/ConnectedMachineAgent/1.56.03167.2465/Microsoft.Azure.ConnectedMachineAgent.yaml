@@ -1,8 +1,8 @@
-# Created with komac v2.13.0
+# Automatically updated by the winget bot at 2025/Sep/09
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.10.0.schema.json
 
-PackageIdentifier: NativeSoft.NativeRest
-PackageVersion: 2.7.2
+PackageIdentifier: Microsoft.Azure.ConnectedMachineAgent
+PackageVersion: 1.56.03167.2465
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.10.0
